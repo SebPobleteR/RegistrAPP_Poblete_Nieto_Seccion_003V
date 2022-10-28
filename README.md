@@ -17,6 +17,8 @@ npm install -g @ionic/cli
 npm install --save @ionic/storage
 npm install --save @ionic/storage-angular
 
+Descargamos el src de este repositorio y borramos el que tenemos creado en la carpeta RegistrAPP para poder copiar el nuevo.
+
 Listo esta todo preparado para ejecutarlo 
 
 ionic serve --lab    [modo aplicacion movil]
